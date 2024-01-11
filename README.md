@@ -1,0 +1,3 @@
+This is a simple Automatic Password Generator Project.
+Created using HTML,CSS and JavaScript.
+It generates a password which contains Alphabet, Numbers, Symbols and combination of all of those by your choice....
